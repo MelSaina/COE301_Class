@@ -1,2 +1,2 @@
-This repo contains m classwork activities  and tasks.
+This repo contains my classwork activities  and tasks.
 Prof Tarus 
